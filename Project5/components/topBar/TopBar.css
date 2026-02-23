@@ -1,0 +1,9 @@
+.topbar-appBar {
+  height: 60;
+  justify-content: 'center';
+}
+
+.img-preview {
+  width: 100%;
+  height: 100%;
+}

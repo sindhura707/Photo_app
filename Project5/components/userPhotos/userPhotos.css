@@ -1,0 +1,16 @@
+.main-image {
+  max-width: 800px;
+}
+
+.main-username {
+  font-weight: 500;
+  cursor: pointer;
+  transition: 0.3s;
+  color: black;
+  text-decoration: none;
+  margin-right: 4px;
+}
+
+.main-username:hover {
+  opacity: 0.6;
+}

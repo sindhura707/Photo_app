@@ -1,0 +1,9 @@
+/* userList.css */
+.main-user-list {
+  text-decoration: none; /* Remove underline from links */
+  color:blacK;
+}
+
+.main-user-list:hover {
+  opacity: 0.8; /* Slight opacity change on hover */
+}

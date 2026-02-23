@@ -1,0 +1,28 @@
+******************** GROUP 7 SUBMISSION FILE ***********************
+
+Story number and name: 1 - Extend user profile detail with usage
+Story points: 3
+Brief description to see the story in action: When viewing the details of a user, the user detail page should efficiently showcase their engagement by featuring thumbnails of the most recently uploaded photo and the photo with the most comments (upload date and comment count, respectively). Clicking on these thumbnails will direct users to a detailed view where the photo and its comments are prominently displayed, enhancing user interaction with the content.
+
+
+Story number and name: 6 - Photo like votes
+Story points: 4
+Brief description to see the story in action: Implement a dynamic like and unlike system for each photo, similar to Facebook's interface. When a user clicks the like button, the photo is liked, visually toggling the button to an unlike option, and vice versa. Each photo should display a count of likes next to the button, updating immediately with any change. Photos on a user’s page should be arranged based on like counts, with the most liked ones at the top, and sorted by the most recent in case of a tie, refreshing the order upon page reload for consistency.
+
+Story number and name: 7 - Favorite Lists of Photos for Users
+Story points: 6
+Brief description to see the story in action: Logged-in users can mark photos as favorites, creating a personalized list accessible via a dedicated /favorites page. Photos can be unfavorited, and a distinctive button or icon next to each photo allows users to add it to their favorites. Once favorited, this button should be disabled, with a clear indicator showing the photo's favored status. The favorites page displays thumbnails of favorited photos; clicking a thumbnail opens a modal with a larger image and the photo's upload date. Users should have an easy option, like clicking an "x" on the thumbnail, to remove photos from their favorites, ensuring the removal persists even after a page refresh or re-login.
+
+
+Total Story Points: 13
+
+Marketing Video URL (ensure permissions are set to public viewing): https://youtu.be/y5JHX7mixB0
+
+Is it OK if we post your Marketing Video URL on the class discussion forum?
+Yes
+
+Any special instructions for grading (it should be easy for someone to run your
+app from a new machine): None
+
+
+*************************** END ***************************************

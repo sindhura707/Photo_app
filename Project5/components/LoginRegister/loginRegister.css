@@ -1,0 +1,14 @@
+.link {
+    color: #007bff; /* Change the link color to white */
+    text-decoration: none;
+    cursor: pointer;
+    background: none;
+    border: none;
+}
+
+.link:hover {
+    color: #007bff; /* Optional: add a hover effect with a blue color */
+    text-decoration: underline;
+ }
+
+
